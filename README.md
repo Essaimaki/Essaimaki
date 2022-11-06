@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Essaimaki
-- 👀 I’m interested in C# andweb API
+- 👀 I’m interested in C# andweb API, html,CSS
 - 🌱 I’m currently learning  python
 - 💞️ I’m looking to collaborate on  anything interesting
 - 📫 How to reach me thomas.2001@live.com/+251912383349
